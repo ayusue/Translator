@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.RTB_Chinese = new System.Windows.Forms.RichTextBox();
             this.RTB_English = new System.Windows.Forms.RichTextBox();
             this.GB_Chinese = new System.Windows.Forms.GroupBox();
@@ -115,6 +116,7 @@
             this.Controls.Add(this.BT_CtoE);
             this.Controls.Add(this.GB_English);
             this.Controls.Add(this.GB_Chinese);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Translator";
             this.GB_Chinese.ResumeLayout(false);
