@@ -1,0 +1,10 @@
+D:\WorkSpace\CSharp\Translator\Translator\bin\Debug\Translator.exe.config
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.Form1.resources
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
+D:\WorkSpace\CSharp\Translator\Translator\bin\Debug\Translator.exe
+D:\WorkSpace\CSharp\Translator\Translator\bin\Debug\Translator.pdb
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.exe
+D:\WorkSpace\CSharp\Translator\Translator\obj\Debug\Translator.pdb
+D:\WorkSpace\CSharp\Translator\Translator\bin\Debug\Newtonsoft.Json.dll
